@@ -1,0 +1,69 @@
+div, input, ul, li, h3, img { padding: 0; margin: 0; }
+
+ul li { list-style: none; }
+
+body { background: #f2f2f2; }
+
+#header { width: 100%; height: 4.17333rem; background: url(../images/head.png) no-repeat; background-size: 100% 100%; }
+#header .one { width: 5%; height: 0.45333rem; background: url(../images/2x.png) no-repeat; float: left; margin-top: 0.82667rem; margin-left: 0.33333rem; background-size: 100% 100%; }
+#header .two { width: 58%; height: 0.66667rem; line-height: 0.4rem; float: left; margin-top: 0.73333rem; margin-left: 0.8rem; border-radius: 0.26667rem; opacity: 0.8; background: #fff; }
+#header .two input { width: 60%; height: 0.66667rem; padding: 0; font-size: 0.34667rem; margin-left: 0.4rem; border: none; background: none; }
+#header .two img { width: 0.4rem; height: 0.4rem; margin-left: 0.6rem; }
+#header .three { width: 15%; height: 0.8rem; float: left; margin-top: 0.93333rem; margin-left: 3%; }
+#header .three img { width: 25%; height: 0.6rem; float: left; margin-left: 20%; }
+
+#center { width: 100%; height: 3rem; background: #fff; }
+#center ul { width: 100%; height: 3rem; margin-top: 0.26667rem; }
+#center ul li { width: 20%; height: 1.61333rem; float: left; text-align: center; margin-top: 0.4rem; }
+#center ul li img { width: 1.14667rem; height: 1.61333rem; }
+
+#big { width: 100%; height: 16.10667rem; background: #fff; margin-top: 0.26667rem; position: relative; }
+#big .biaoti { width: 85%; height: 1.2rem; line-height: 1.17333rem; font-weight: bold; margin-left: 3%; font-size: 0.48rem; margin-top: 0.26667rem; }
+#big .biaoti img { width: 0.4rem; height: 0.4rem; margin-left: 2%; margin-right: 2%; }
+#big .biaoti b { font-size: 0.4rem; font-weight: normal; }
+#big .pic { width: 100%; height: 3.81333rem; background: url(../images/18.png) no-repeat; background-size: 100% 100%; }
+#big .xinpin { width: 50%; height: 1.6rem; background: url(../images/20.png) no-repeat; margin: 0 auto; position: relative; overflow: hidden; background-size: 100% 100%; }
+#big .xinpin p { width: 85%; height: 0.86667rem; font-size: 0.33333rem; background: #fbd42a; margin: 0.34667rem auto; display: block; text-align: center; color: #444444; }
+#big .xinpin span { display: block; font-size: 0.26667rem; height: 0.33333rem; position: absolute; top: 0.86667rem; left: 30%; color: #444444; }
+#big .left { width: 50%; height: 7.06667rem; float: left; margin-top: 0.93333rem; text-align: center; }
+#big .left p { font-size: 0.4rem; font-weight: bold; }
+#big .left span { font-size: 0.26667rem; margin-top: 0.04rem; display: block; }
+#big .left img { width: 53%; height: 2.22667rem; margin-top: 0.66667rem; margin-bottom: 0.4rem; }
+#big .left h11 { width: 70%; height: 0.4rem; font-size: 0.26667rem; display: block; margin: 0 auto; }
+#big .left div { width: 80%; height: 0.8rem; }
+#big .left div h1 { width: 1.33333rem; height: 0.53333rem; line-height: 0.53333rem; float: left; margin: 0 auto; margin-left: 28%; font-size: 0.29333rem; }
+#big .left div h2 { width: 1.06667rem; height: 0.53333rem; line-height: 0.53333rem; float: left; margin: 0 auto; color: red; font-size: 0.26667rem; }
+#big .left h3 { text-decoration: line-through; color: #444444; font-size: 0.24rem; }
+#big .left div:last-child { width: 50%; height: 0.53333rem; line-height: 0.53333rem; border-radius: 0.26667rem; background: #fbd42a; margin-left: 23%; font-size: 0.30667rem; margin-top: 0.13333rem; }
+#big .left div:last-child img { width: 16%; height: 0.37333rem; padding: 0; margin: 0; }
+#big .tuijian { width: 50%; height: 1.06667rem; bottom: 0; position: absolute; left: 20%; line-height: 0.8rem; font-size: 0.4rem; text-align: center; }
+
+#day { width: 100%; height: 12.86667rem; background: #ffffff; margin-top: 0.24rem; overflow: hidden; }
+#day .top { width: 2.13333rem; height: 0.66667rem; margin: 0 auto; margin-top: 0.26667rem; font-size: 0.53333rem; }
+#day .tu { width: 50%; height: 5.41333rem; float: left; background: #fff; margin-top: 0.66667rem; }
+#day .tu > div { color: #ffffff; }
+#day .tu > div p { width: 1.86667rem; height: 0.4rem; line-height: 0.4rem; background: #444444; margin-left: 0.6rem; text-align: center; font-size: 0.26667rem; }
+#day .tu > div h7 { display: block; width: 2.13333rem; height: 0.4rem; line-height: 0.4rem; background: #444444; margin-left: 0.6rem; text-align: center; font-size: 0.26667rem; }
+#day .tu img { margin-left: 30%; margin-top: 0.8rem; width: 2.49333rem; height: 2.74667rem; }
+#day .zi { float: left; width: 50%; height: 5.41333rem; margin-top: 0.66667rem; }
+#day .zi h8 { margin-top: 0.4rem; text-align: center; display: block; font-size: 0.4rem; }
+#day .zi p { display: block; font-size: 0.32rem; line-height: 0.46667rem; color: #959595; text-indent: 0.53333rem; width: 90%; }
+
+#day { width: 100%; height: 12.86667rem; background: #ffffff; margin-top: 0.24rem; overflow: hidden; }
+#day .top { width: 2.13333rem; height: 0.66667rem; margin: 0 auto; margin-top: 0.26667rem; font-size: 0.53333rem; }
+#day .tu1 { width: 50%; height: 5.41333rem; float: right; background: #fff; margin-top: 0.66667rem; }
+#day .tu1 > div { color: #ffffff; }
+#day .tu1 > div p { width: 1.86667rem; height: 0.4rem; line-height: 0.4rem; background: #444444; margin-left: 0.6rem; text-align: center; font-size: 0.26667rem; }
+#day .tu1 > div h7 { display: block; width: 2.13333rem; height: 0.4rem; line-height: 0.4rem; background: #444444; margin-left: 0.6rem; text-align: center; font-size: 0.26667rem; }
+#day .tu1 img { margin-left: 30%; margin-top: 0.8rem; }
+#day .zi1 { float: left; width: 50%; height: 5.41333rem; margin-top: 0.66667rem; }
+#day .zi1 h8 { margin-top: 0.4rem; text-align: center; display: block; font-size: 0.4rem; }
+#day .zi1 p { display: block; font-size: 0.4rem; line-height: 0.46667rem; color: #959595; text-indent: 0.53333rem; width: 85%; font-size: 0.32rem; margin-left: 5%; }
+
+#foot { width: 100%; height: 1.6rem; position: fixed; bottom: 0; background: #F2F2F2; }
+#foot ul { width: 100%; height: 1.6rem; text-align: center; }
+#foot ul li { float: left; width: 24%; height: 1.33333rem; }
+#foot ul li img { width: 40%; height: 0.69333rem; }
+#foot ul li b { display: block; width: 60%; height: 0.4rem; line-height: 0.4rem; font-size: 0.26667rem; margin: 0 auto; }
+
+/*# sourceMappingURL=style.css.map */
