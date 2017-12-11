@@ -1,0 +1,63 @@
+#header { width: 100%; height: 1.01333rem; position: fixed; top: 0; background: #ffc20f; background-size: 100% 100%; overflow: hidden; z-index: 99; }
+#header .one { width: 8%; height: 1.33333rem; margin-left: 8%; margin-top: 0.29333rem; float: left; background: url(../images/3.png) no-repeat; }
+#header .two { width: 55%; height: 0.85333rem; margin-top: 0.06667rem; float: left; }
+#header .two input { width: 100%; height: 0.85333rem; border-radius: 20px; border: none; opacity: 0.6; }
+#header .three { width: 20%; height: 0.85333rem; margin-top: 0.29333rem; float: left; margin-left: 3%; }
+#header .three img { float: left; margin-left: 10%; width: 0.53333rem; height: 0.53333rem; }
+
+#banner { width: 100%; height: 4.8rem; background-size: 100% 100%; }
+#banner img { width: 100%; height: 4.8rem; }
+
+#center { width: 100%; height: 5.28rem; background: #FFFFFF; }
+#center ul { width: 100%; height: 5.28rem; }
+#center ul li { float: left; width: 2.26667rem; height: 2.13333rem; text-align: center; margin-top: 0.26667rem; }
+#center ul li img { width: 1.28rem; height: 1.30667rem; }
+#center ul li p { display: block; font-size: 0.4rem; color: #000000; margin-top: 0.13333rem; }
+
+#hongbao { width: 100%; height: 2.29333rem; background: #FFFFFF; margin-top: 0.02667rem; }
+#hongbao .left { width: 2.72rem; height: 2.26667rem; background-size: 100% 100%; float: left; background: url(../images/redlope.png) no-repeat; }
+#hongbao .right { width: 7.25333rem; height: 2.26667rem; float: left; }
+#hongbao .right p { font-size: 0.37333rem; display: block; height: 0.4rem; }
+#hongbao .right p span { color: #429afa; }
+#hongbao .right p:first-child { margin-top: 0.53333rem; }
+
+#yushou { width: 100%; background-size: 100% 100%; margin-top: 0.26667rem; }
+#yushou img { width: 100%; height: 3.65333rem; }
+
+#foot { width: 100%; height: 1.33333rem; background: #FFFFFF; position: fixed; bottom: 0; z-index: 100; }
+#foot ul { width: 100%; height: 1.33333rem; }
+#foot ul li { float: left; width: 20%; height: 1.33333rem; text-align: center; }
+#foot ul li img { width: 0.49333rem; height: 0.49333rem; margin-top: 0.13333rem; }
+#foot ul li p { font-size: 0.34667rem; color: #4f4f4f; margin-top: 0.13333rem; }
+
+#tuijian { width: 100%; height: 1.46667rem; }
+#tuijian > div { font-size: 0.45333rem; color: #000000; width: 50%; height: 1.46667rem; line-height: 1.46667rem; margin-left: 20%; float: left; }
+#tuijian .more { width: 13%; height: 1.46667rem; float: left; margin-left: 8%; color: red; font-size: 0.4rem; font-weight: bold; }
+
+#pic { width: 100%; height: 4.74667rem; }
+#pic .tuwen { width: 32%; height: 4.74667rem; background: #FFFFFF; float: left; margin-left: 1%; }
+#pic .tuwen img { width: 100%; }
+#pic .tuwen p { font-size: 0.34667rem; display: block; width: 95%; line-height: 0.4rem; margin: 0 auto; color: #4f4f4f; }
+#pic .tuwen b { float: left; display: block; color: red; margin-top: 0.26667rem; font-size: 0.26667rem; }
+#pic .tuwen span { float: left; display: block; margin-left: 38%; margin-top: 0.26667rem; }
+
+#shuma { width: 100%; height: 16.76rem; }
+#shuma .tuwen { width: 45%; height: 5.46667rem; background: #FFFFFF; margin-left: 3.5%; margin-top: 0.13333rem; position: relative; float: left; }
+#shuma .tuwen p { display: block; width: 100%; height: 0.96rem; line-height: 0.96rem; color: #000000; font-size: 0.4rem; margin-left: 2%; }
+#shuma .tuwen img { width: 60%; height: 2.82667rem; float: left; }
+#shuma .tuwen .two { width: 38%; height: 2.82667rem; float: left; margin-left: 1%; }
+#shuma .tuwen .two img { width: 100%; height: 50%; }
+#shuma .tuwen .two img:last-child { margin-top: 0.05333rem; }
+#shuma .tuwen .tang { position: absolute; bottom: 0.4rem; width: 100%; height: 1.06667rem; }
+#shuma .tuwen .tang img { width: 25%; height: 1.06667rem; }
+#shuma .tuwen .tang p { display: block; width: 60%; height: 0.53333rem; line-height: 0.53333rem; float: left; font-size: 0.32rem; margin-left: 4%; color: #4f4f4f; }
+
+#four { width: 45%; height: 6.93333rem; background: #FFFFFF; margin-left: 3%; float: left; margin-top: 0.26667rem; }
+#four img { width: 100%; height: 4.61333rem; margin-top: 0; }
+#four p { width: 95%; height: 0.8rem; line-height: 0.45333rem; font-size: 0.37333rem; display: block; margin: 0 auto; color: #242424; }
+#four span { width: 30%; height: 0.53333rem; display: block; color: red; float: left; margin-left: 2%; margin-top: 0.53333rem; font-size: 0.32rem; }
+#four b { width: 40%; height: 0.53333rem; display: block; float: left; font-weight: normal; margin-top: 0.53333rem; font-size: 0.32rem; color: #8f8f94; }
+#four strong { width: 10%; height: 0.53333rem; float: left; margin-top: 0.53333rem; margin-left: 15%; }
+#four strong img { width: 0.45333rem; height: 0.53333rem; }
+
+/*# sourceMappingURL=style.css.map */
