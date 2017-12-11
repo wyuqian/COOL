@@ -1,0 +1,33 @@
+#header { width: 100%; height: 6.25rem; position: relative; }
+#header img { width: 100%; height: 6.25rem; }
+#header .shuru { position: absolute; width: 8.05556rem; height: 1.11111rem; background: #FFFFFF; border-radius: 0.41667rem; top: 2.38889rem; left: 1.02778rem; }
+#header .shuru .left { width: 1.91667rem; height: 0.59722rem; line-height: 0.59722rem; border-right: 2px solid #dcdcdc; float: left; font-size: 0.38889rem; margin-top: 0.27778rem; }
+#header .shuru .left span { width: 0.83333rem; float: left; display: block; margin-left: 0.41667rem; color: #000000; }
+#header .shuru .left img { float: left; width: 0.20833rem; height: 0.13889rem; margin-top: 0.27778rem; margin-left: 0; }
+#header .shuru img { float: left; width: 0.40278rem; height: 0.40278rem; margin-top: 0.38889rem; margin-left: 0.27778rem; }
+#header .shuru input { border: none; margin: 0 auto; width: 2.77778rem; height: 0.58333rem; color: #a7a7a7; margin-left: 0.13889rem; margin-top: 0.27778rem; font-size: 0.36111rem; float: left; }
+
+#center { width: 100%; height: 3.02778rem; background: #FAFAFA; }
+#center ul { width: 100%; height: 3.02778rem; }
+#center ul li { width: 25%; height: 3.02778rem; position: relative; float: left; }
+#center ul li img { width: 1.38889rem; height: 1.38889rem; position: absolute; top: 0.41667rem; left: 0.55556rem; }
+#center ul li p { position: absolute; top: 2.02778rem; left: 0.55556rem; display: block; font-size: 0.36111rem; color: #000000; }
+
+#big { width: 100%; height: 9.44444rem; background: #FAFAFA; border-bottom: 2px solid #dcdcdc; border-top: 2px solid #dcdcdc; margin-top: 0.19444rem; }
+#big .top { width: 100%; height: 1.05556rem; line-height: 1.05556rem; border-bottom: 2px solid #dcdcdc; font-size: 0.41667rem; }
+#big .top_1:last-child { border-bottom: none; }
+#big .top_1 { width: 90%; height: 2.83333rem; border-bottom: 2px solid #dcdcdc; margin: 0 auto; }
+#big .top_1 img { width: 2.15278rem; height: 2.18056rem; margin-top: 0.30556rem; float: left; border: 2px solid #8c8c8c; }
+#big .top_1 .left { width: 70%; height: 2.26389rem; float: right; margin-top: 0.30556rem; }
+#big .top_1 .left p { width: 100%; font-weight: bold; color: #000000; font-size: 0.41667rem; line-height: 0.5rem; }
+#big .top_1 .left span { display: block; color: #ca4d6e; width: 1.11111rem; height: 0.41667rem; line-height: 0.41667rem; border: 2px solid #ca4d6e; margin-top: 0.23611rem; font-size: 0.27778rem; }
+#big .top_1 .left div { width: 100%; height: 0.41667rem; margin-top: 0.13889rem; }
+#big .top_1 .left div span { display: block; width: 40%; height: 0.41667rem; color: #8c8c8c; float: left; border: none; font-size: 0.30556rem; margin: 0; }
+
+#foot { width: 100%; height: 1.38889rem; background: #FFFFFF; position: fixed; bottom: 0; z-index: 100; }
+#foot ul { width: 100%; height: 1.38889rem; }
+#foot ul li { float: left; width: 25%; height: 1.38889rem; text-align: center; }
+#foot ul li img { margin-top: 0.13889rem; }
+#foot ul li p { font-size: 0.36111rem; color: #4f4f4f; margin-top: 0.13889rem; }
+
+/*# sourceMappingURL=style.css.map */
